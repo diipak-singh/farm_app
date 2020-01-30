@@ -1,0 +1,2 @@
+D:\NodeJsP\1-node-farm\starter\obj\Debug\FromExistingCode1.njsprojAssemblyReference.cache
+D:\NodeJsP\1-node-farm\starter\bin\Microsoft.NodejsTools.WebRole.dll
